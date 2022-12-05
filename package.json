@@ -1,0 +1,24 @@
+{
+  "name": "gitbot1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronitc21/gitbot.git"
+  },
+  "author": "Ronit Chawla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronitc21/gitbot/issues"
+  },
+  "homepage": "https://github.com/ronitc21/gitbot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.15.1"
+  }
+}
